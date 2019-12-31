@@ -1,3 +1,13 @@
 .idea
 pbft-java.iml
 target
+client-impl/target
+client-impl/pbft-java-client-impl.iml
+client-spec/target
+client-spec/pbft-java-client-spec.iml
+example/target
+example/pbft-java-example.iml
+replica-impl/target
+replica-impl/pbft-java-replica-impl.iml
+replica-spec/target
+replica-spec/pbft-java-replica-spec.iml
